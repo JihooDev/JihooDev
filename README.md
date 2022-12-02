@@ -1,6 +1,6 @@
 <div id="header" align="center">
 </br>
-<img src="https://i.pinimg.com/originals/98/bf/e6/98bfe6a3bdfee50dee13b7d9009360f2.gif" alt="star"/><br/>
+<img src="https://i.pinimg.com/originals/98/bf/e6/98bfe6a3bdfee50dee13b7d9009360f2.gif" alt="star" style="border-radius : 10px"/><br/>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgn829@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wlgn829@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <hr>
 <p style="font-size: 24px;">안녕하세요 👋 </br>프론트엔드 개발자 <b style="color: #00005C">김지후</b> 입니다</p>
