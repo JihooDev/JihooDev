@@ -1,10 +1,9 @@
-<div id="header" align="center">
+<div id="header">
 <hr>
 <p style="font-size: 24px;">안녕하세요 👋 </br>프론트엔드 개발자 <b style="color: #00005C">김지후</b> 입니다!</p>
-</div>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgn829@gmail.com" target="_blank" style="text-align : center"><img src="https://img.shields.io/badge/wlgn829@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</div>
 <hr>
-
 <div id="contents" align="center">
 <p style="font-size:26px">🛠 Languages & Tools 🛠</p>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
