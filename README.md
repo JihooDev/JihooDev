@@ -1,8 +1,8 @@
 <div id="header" align="center">
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgn829@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wlgn829@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <hr>
 <p style="font-size: 24px;">안녕하세요 👋 </br>프론트엔드 개발자 <b style="color: #00005C">김지후</b> 입니다!</p>
 </div>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgn829@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wlgn829@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <hr>
 
 <div id="contents" align="center">
