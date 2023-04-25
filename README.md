@@ -1,7 +1,6 @@
 <div id="header">
 <hr>
 <p style="font-size: 24px;">안녕하세요 👋 </br>프론트엔드 개발자 <b style="color: #00005C">김지후</b> 입니다!</p>
-<p style="font-size: 20px">현재 팀마파(Team-mapa)에서 근무하며 스킬을 쌓아가는 중 입니다</p>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgn829@gmail.com" target="_blank" style="text-align : center"><img src="https://img.shields.io/badge/wlgn829@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
 <hr>
