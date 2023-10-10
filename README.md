@@ -2,6 +2,11 @@
 <!-- <img src="https://tistory1.daumcdn.net/tistory/5331239/attach/8a8437728e8944f3876cce0d4c17a12e" alt="이미지 설명" width="700" height="600"> -->
 <hr>
 <!-- <p style="font-size: 24px;">안녕하세요 👋 </br>프론트엔드 개발자 <b style="color: #00005C">김지후</b>입니다!</p> -->
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihooDev&show_icons=true&theme=radical) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgn829@gmail.com" target="_blank" style="text-align : center"><img src="https://img.shields.io/badge/wlgn829@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
 <hr>
