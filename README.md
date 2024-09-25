@@ -4,7 +4,7 @@
 <h1 style="font-size: 54px;">안녕하세요 👋 </br>프론트엔드 개발자 <b style="color: #00005C">김지후</b>입니다!</h1>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihooDev&show_icons=true&theme=dark) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihooDev&show_icons=true&theme=dark)
 
 </div>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wlgn829@gmail.com" target="_blank" style="text-align : center"><img src="https://img.shields.io/badge/wlgn829@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -25,7 +25,7 @@
 <hr>
 </div>
 
-**[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihooDev&count_bg=%2379C83D&title_bg=%23555555&icon=tele5.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihooDev&count_bg=%2379C83D&title_bg=%23555555&icon=tele5.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **OOWGNOD/OOWGNOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
