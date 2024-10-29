@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/NODEJS-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-5E84E2?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/supabase-green?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/supabase-green?style=for-the-badge&logo=supabase&logoColor=white"/>
 <hr>
 </div>
 
